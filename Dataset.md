@@ -1,8 +1,15 @@
 #Dataset
 
-El Dataset elegido para el presente trabajo corresponde a los datos obtenidos en la Encuesta Nacional de satisfacción de usuarios del servicio de guardería del IMSS (Instituto Mexicano del Seguro Social). Esta encuesta fue realizada con el objetivo de captar la percepción de los derechohabientes usuarios del servicio de guardería del IMSS.
+El Dataset elegido para el presente trabajo corresponde a los datos recopilados durante 10 anios (1999 - 2008) de atencion clinica en 130 hospitales de Estados Unidos y las redes integradas.
 
-El IMSS, es la institución con mayor presencia en la atención a la salud y en la protección social de los mexicanos desde su fundación en 1943, para ello, combina la investigación y la práctica médica, con la administración de los recursos para el retiro de sus asegurados, para brindar tranquilidad y estabilidad a los trabajadores y sus familias, ante cualquiera de los riesgos especificados en la Ley del Seguro Social. Hoy en día, más de la mitad de la población mexicana, tiene algo que ver con el Instituto, hasta ahora, la más grande en su género en América Latina.
+Incluye algo mas de 50 caracteristicas o atributos que represetnan los resultados del paciente y del hospital.
 
-La descripción de los atributos de cada columna o atributo del dataset se encuentra en el archivo: Atributos_Guarderías_Sep2015.ods
+La informacion de esta base de datos fue recopilada bajo los siguientes criterios:
+
+* Se toma en cuenta a los paciente hospitalizados.
+* Encuesta realizada a personas con sintomas de diabetes.
+* Se tomo en cuenta a las personas hospitalizadas entre 1 y 14 dias.
+
+
+La descripción detallada de todos los atributos del DataSet se encuentran en el archivo Atributos_Diabetes_DataSet.pdf y los valores de los IDs en el archivo Valores_IDs_Diabetes_DataSet.ods
 
